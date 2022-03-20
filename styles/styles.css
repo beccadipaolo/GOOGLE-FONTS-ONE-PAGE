@@ -61,7 +61,7 @@ span .font-pair1b{
 /* add your css below this line */
 
 .hero-background {
-  background: url("https://cdn.pixabay.com/photo/2022/03/06/05/30/clouds-7050884_1280.jpg") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/745236/pexels-photo-745236.jpeg?cs=srgb&dl=pexels-wolfram-k-745236.jpg&fm=jpg") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -72,15 +72,15 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background: url("https://cdn.pixabay.com/photo/2020/06/15/17/35/me-nots-5302712_1280.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/1784581/pexels-photo-1784581.jpeg?cs=srgb&dl=pexels-zetong-li-1784581.jpg&fm=jpg") no-repeat fixed bottom;
 }
 
 .second-section-background {
-  background: url("https://cdn.pixabay.com/photo/2022/02/28/15/28/sea-7039471_1280.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/1822835/pexels-photo-1822835.jpeg?cs=srgb&dl=pexels-riley-franzke-1822835.jpg&fm=jpg") no-repeat fixed bottom;
 }
 
 .third-section-background {
-  background: url("https://cdn.pixabay.com/photo/2021/12/27/14/39/tulips-6897351_1280.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/3404541/pexels-photo-3404541.jpeg?cs=srgb&dl=pexels-vinicius-maciel-3404541.jpg&fm=jpg") no-repeat fixed bottom;
 }
 
 .with-background {
